@@ -4,23 +4,28 @@
 <head> 
 
 
-<title>  기털 월드 </title>
+<title>  기털짱의 플레이리스트 </title>
 
 <meta charset="utf-8">    
 </head>
 <body>
    
-   <h1>  hello world 1 </h1> 
+   <h1>  hello ( cher ))world 1 </h1> 
 <ol>
-    <li><a href="cher.html">one</a>    </li>
-    <li><a href="cher2.html">two</a> </li>
-    <li><a href="cher3.html">   three </a></li>
+    <li><a href="index.html">기털레이리스트</a>    </li>
+    <li><a href="index2.html">기털의사진</a> </li>
+    <li><a href="https://blog.naver.com/asas6066">   기털의블로그 </a></li>
 </ol>
 <h2>hello world 2</h2>  
 <strong> creating <u>web</u> pages   </strong>
-<p> 안녕하세요. 김기털 입니다.<a href="https://www.youtube.com/watch?v=ssHpYF3ZL2A" title="shiloh의 노래" target="_blank">흥얼흥얼</a>
+<p> 제가 좋아하는 노래 플레이리스트 임미돵.
 
-<a href="https://www.youtube.com/watch?v=TWKDP-FLicQ" title=이것을누르지마시오.! target="_blank"> 이곳을 누르시오 </a>
+<a href="https://youtu.be/ssHpYF3ZL2A" title=shiloh song target="_blank">Hesitations - Shiloh Dynasty</a> <br/>
+<a href="https://youtu.be/K7fjM_q4ezw">shiloh-losing interest</a><br/>
+
+<a href="https://youtu.be/InZYzPF0OS0">재하- 사랑했는데    </a>  <br/>
+<a href="https://youtu.be/JNEE1dLKV5A">kudasai - you make colors out of grey </a>
+
 
 
 </p>
